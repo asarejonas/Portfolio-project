@@ -25,3 +25,15 @@ This project highlights various features and practices in modern web development
 - **Dynamic Content**: Projects and experiences are rendered dynamically from the data.
 - **User Authentication**: Optional login feature (can be added) for a personalized user experience.
 - **Interactive UI**: Components are interactive and fluid, providing a seamless user experience.
+
+## Technologies Used
+
+The Wild-Oasis project uses a range of technologies to provide a modern and efficient web experience:
+
+- **React**: A JavaScript library for building user interfaces.
+- **Redux**: State management to manage the application state across various components.
+- **JavaScript (ES6)**: Modern JavaScript for logic and interactivity.
+- **HTML5 & CSS3**: For structuring and styling the web pages.
+- **Sass (SCSS)**: Preprocessor for cleaner and more manageable CSS.
+- **React Router**: For handling client-side routing.
+- **Netlify**: For hosting the live demo of the website.
