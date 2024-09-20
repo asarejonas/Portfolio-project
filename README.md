@@ -58,3 +58,16 @@ To run this project locally, follow these steps:
    ```bash
    npm start
    ```
+
+The application should now be running on `http://localhost:3000`.
+
+## Usage
+
+The portfolio is a multi-section website where users can navigate through the following pages:
+
+- **Home**: A welcoming introduction with my key skills and an overview.
+- **About**: Information about my background, education, and experience.
+- **Projects**: A display of my recent projects, including descriptions, screenshots, and links.
+- **Contact**: A simple contact form for visitors to get in touch with me.
+
+Feel free to browse around and explore!
