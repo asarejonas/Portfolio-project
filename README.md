@@ -37,3 +37,24 @@ The Wild-Oasis project uses a range of technologies to provide a modern and effi
 - **Sass (SCSS)**: Preprocessor for cleaner and more manageable CSS.
 - **React Router**: For handling client-side routing.
 - **Netlify**: For hosting the live demo of the website.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sabimbi447/wild-oasis.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd wild-oasis
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
