@@ -81,3 +81,11 @@ Contributions to this project are welcome. If you have suggestions for improveme
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a pull request
+
+## Contact
+
+If you have any questions, feedback, or would like to connect, you can reach me at:
+
+- **GitHub**: [@sabimbi447](https://github.com/sabimbi447)
+- **LinkedIn**: [Jonas Asare](https://www.linkedin.com/in/jonas-asare)
+- **Twitter**: [@AsareJonas](https://twitter.com/sabimbi447)
