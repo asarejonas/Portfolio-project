@@ -71,3 +71,13 @@ The portfolio is a multi-section website where users can navigate through the fo
 - **Contact**: A simple contact form for visitors to get in touch with me.
 
 Feel free to browse around and explore!
+
+## Contributing
+
+Contributions to this project are welcome. If you have suggestions for improvements or additional features, feel free to fork the repository and create a pull request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/new-feature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/new-feature`)
+5. Open a pull request
